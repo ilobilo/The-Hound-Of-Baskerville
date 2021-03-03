@@ -1,0 +1,40 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAABmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmdodmZmZmZmZmZmZmZmZmZmZmZmZ3aGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmd2hmZmZmZmZmZmZmZmZmZmZmZmZ2h2ZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAABmZmZmZmZmZmZ2d3aHbmhmZndnd2fu92Z2d3d3d3fnbnZ3d3d3duj+dnd3d2eGh/52d3d3dudnhnZ3d3d35+7udnd3d3d2iOh2d3d3Z+7u+HZ3d3d3jmj/dnd3d3bnjv92d3d3Z3eI+GZ3Z3d35ohvZnZ3dud++GZmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDA3MDQwNTAxMDUwNTA2MDEwMzAyMDUwNjA1MDUwNTA1MDUwNDAzMDIwNDA2MDQwNzAxMDQwNjAxMDMwMjA1MDUwMTAxMDUwNTA1MDUwMzAyMDUwNjA1MDUwNjA1MDcwNjAzMDIwNjA3MDQwMTAxMDUwMTA2MDMwMjA2MDUwMTA1MDcwNDA1MDQwMzAyMDUwNDA2MDUwNDAxMDEwNTAzMDIwMjAwMDAwMDAyMDAwMDAwMDAwMjAwMjAwMDAwMDIwMDAwMDAwMDAyMDAwMDAwMDIwMjIwMDAwMDAwMDIwMDAwMDIwMDAyMDAwMDAwMDAwMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.castle.tilePath5",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass1",
+            "myTiles.tile1",
+            "myTiles.tile2"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
